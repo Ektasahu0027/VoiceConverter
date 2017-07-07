@@ -28,10 +28,10 @@
         android:id="@+id/toggleButton1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:textOff="Stop"
+        android:textOff="Start"
         android:background="@color/colorPrimary"
         android:drawableLeft="@android:drawable/ic_btn_speak_now"
-        android:textOn="Start"
+        android:textOn="Stop"
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
         android:layout_marginBottom="23dp" />
